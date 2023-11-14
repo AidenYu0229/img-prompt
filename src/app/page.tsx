@@ -95,7 +95,7 @@ const Home: FC = () => {
             justifyContent: "center",
             alignItems: "center",
           }}>
-          IMGPrompt
+          MJ/SD 提示词
         </Title>
         <Row gutter={[16, 16]}>
           <Col xs={24} lg={18}>
