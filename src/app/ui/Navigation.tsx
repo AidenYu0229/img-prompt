@@ -15,7 +15,7 @@ import Link from "next/link";
 
 const items: MenuProps["items"] = [
   {
-    label: <Link href='/'>IMGPrompt</Link>,
+    label: <Link href='/'>MJ/SD 提示词</Link>,
     key: "/",
     icon: <BgColorsOutlined />,
   },
