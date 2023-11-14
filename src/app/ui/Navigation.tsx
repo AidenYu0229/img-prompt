@@ -22,10 +22,10 @@ const items: MenuProps["items"] = [
   {
     label: (
       <a
-        href='https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html'
+        href='https://qal91ffytmo.feishu.cn/wiki/CEauwhl5Xij1OgkLFFkcDMyZnog'
         target='_blank'
         rel='noopener noreferrer'>
-        Stable Diffusion 入门教程
+        AI 研报资料库
       </a>
     ),
     key: "LearnData",
@@ -42,18 +42,6 @@ const items: MenuProps["items"] = [
     ),
     key: "aishort",
     icon: <ExperimentOutlined />,
-  },
-  {
-    label: (
-      <a
-        href='https://tools.newzone.top/json-translate'
-        target='_blank'
-        rel='noopener noreferrer'>
-        文本处理工具
-      </a>
-    ),
-    key: "Tools",
-    icon: <ToolOutlined />,
   },
 ];
 
