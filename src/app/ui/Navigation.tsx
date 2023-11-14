@@ -34,10 +34,10 @@ const items: MenuProps["items"] = [
   {
     label: (
       <a
-        href='https://www.aishort.top/'
+        href='https://gpttishi.aigc147.com'
         target='_blank'
         rel='noopener noreferrer'>
-        ChatGPT Shortcut
+        AI 提示词
       </a>
     ),
     key: "aishort",
