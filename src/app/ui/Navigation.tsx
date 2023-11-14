@@ -37,7 +37,7 @@ const items: MenuProps["items"] = [
         href='https://gpttishi.aigc147.com'
         target='_blank'
         rel='noopener noreferrer'>
-        AI 提示词
+        AI Prompt
       </a>
     ),
     key: "aishort",
